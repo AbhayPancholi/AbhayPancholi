@@ -20,8 +20,8 @@
 
 ## Technical Skills and Interests
 
-![Python](https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png)
-![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png)
+![Python]([https://your-image-link-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhThbob_programming-icon-png-python-logo-512-transparent-png%2F&psig=AOvVaw0JJmCqaVthW_tWFOIW3prX&ust=1701524895872000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDVwIa57oIDFQAAAAAdAAAAABAE)) { width=20% height=20% }
+![R](https://your-image-link-here)
 ![SQL](https://your-image-link-here)
 ![Scikit-learn](https://your-image-link-here)
 ![NumPy](https://your-image-link-here)
