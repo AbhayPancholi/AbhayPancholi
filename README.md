@@ -19,20 +19,14 @@
 
 
 ## Technical Skills and Interests
+- 💻 **Languages:** Python, R, SQL
+- 📊 **Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- 🤖 **API’s:** Keras, FastAI
+- 🧠 **Frameworks:** TensorFlow
+- 🛢️ **Databases:** MongoDB, Relational Database (MySQL)
+- 📚 **Relevant Coursework:** Operating Systems, Object-Oriented Programming, Database Management System
+- 🌟 **Areas of Interest:** Artificial Intelligence, Deep Learning, Machine Learning
 
-![Python]([https://your-image-link-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhThbob_programming-icon-png-python-logo-512-transparent-png%2F&psig=AOvVaw0JJmCqaVthW_tWFOIW3prX&ust=1701524895872000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDVwIa57oIDFQAAAAAdAAAAABAE)) { width=20% height=20% }
-![R](https://your-image-link-here)
-![SQL](https://your-image-link-here)
-![Scikit-learn](https://your-image-link-here)
-![NumPy](https://your-image-link-here)
-![Pandas](https://your-image-link-here)
-![Matplotlib](https://your-image-link-here)
-![Seaborn](https://your-image-link-here)
-![Keras](https://your-image-link-here)
-![FastAI](https://your-image-link-here)
-![TensorFlow](https://your-image-link-here)
-![MongoDB](https://your-image-link-here)
-![MySQL](https://your-image-link-here)
 
 
 ## Get in Touch
