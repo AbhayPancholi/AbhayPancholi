@@ -31,7 +31,7 @@
 
 ## Get in Touch
 - 💬 Ask me about Machine Learning, Deep Learning.
-- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1KI_etXXoMaQ9Ghamj_bqZM1Vbunf70mX/view?usp=sharing](https://drive.google.com/file/d/1gp7W9n2D6RSrJDFrr4LdRnN38ze02B9o/view?usp=drive_link))
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1gp7W9n2D6RSrJDFrr4LdRnN38ze02B9o/view?usp=sharing)
 - 📫 How to reach me: [abhaynagendrapancholi@gmail.com](mailto:abhaynagendrapancholi@gmail.com) 
 
 ## Fun Fact
